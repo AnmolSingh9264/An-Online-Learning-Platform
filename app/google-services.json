@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "724607844381",
+    "firebase_url": "https://education-4bb04-default-rtdb.firebaseio.com",
+    "project_id": "education-4bb04",
+    "storage_bucket": "education-4bb04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724607844381:android:0dbe0f88e0ccd1e13306f4",
+        "android_client_info": {
+          "package_name": "com.ab.brothers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724607844381-5d5bpvc2tgs83ljegqld6t1opqfj4o3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBem03uQCdAbAJp_iBLkDFhe2WSkA_2aS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724607844381-5d5bpvc2tgs83ljegqld6t1opqfj4o3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724607844381:android:b303aa2c3c79ea1c3306f4",
+        "android_client_info": {
+          "package_name": "com.anmol.essence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724607844381-5d5bpvc2tgs83ljegqld6t1opqfj4o3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBem03uQCdAbAJp_iBLkDFhe2WSkA_2aS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724607844381-5d5bpvc2tgs83ljegqld6t1opqfj4o3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
